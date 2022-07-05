@@ -4,16 +4,16 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Ainul'
-global.numberowner = '6285754202785'
-global.instagram = 'https://instagram.com/ainul_181'
-global.github = 'https://github.com/AinulBotz'
-global.dana = '08971724481'
-global.pulsa = '08971724481'
-global.gopay = '08971724481'
+global.nameowner = 'DikaOFC'
+global.numberowner = '6288223674569'
+global.instagram = 'https://instagram.com/hallokaa21_'
+global.github = 'https://github.com/DIKA-MD'
+global.dana = '088223674569'
+global.pulsa = '088223674569'
+global.gopay = '083142211902'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'AinulBotz'
+global.namebot = 'Cylen-MD'
 global.gc = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY'
 global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'AinulBotz'
+global.wm = 'Cylen-MD | DikaOFC'
 global.watermark = wm
-global.wm2 = '                     「 AinulBotz⁩ 」'
-global.wm3 = '⫹⫺ AinulBotz'
+global.wm2 = '                     「 Cylen-MD 」'
+global.wm3 = '⫹⫺ DikaOfc'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = 'AinulBotz'
+global.author = 'DikaOFC'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
